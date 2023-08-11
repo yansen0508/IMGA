@@ -2,6 +2,9 @@
 This is the official implementation of [IMGA](https://yansen0508.github.io/Interactive-Microbial-Genetic-Algorithm/).
 For more information please refer to our [paper](https://hal.science/hal-04050608/document).
 
+## Approach
+![General pipeline](Images/pipeline.png)
+
 ## Requirements
 Please install pytorch, torchvision and psychopy.
 ```shell
