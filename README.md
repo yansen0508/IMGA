@@ -23,7 +23,7 @@ All the generated images can be found in <span style="background-color: #f1f1f1;
 
 <span style="background-color: #f1f1f1; padding: 5px;"><code>datasets/test/imgs/</code></span>: image folder.
 
-<span style="background-color: #f1f1f1; padding: 5px;"><code>datasets/test/aus_openface.pkl</code></span>: dictionary containing the action units of each image.
+<span style="background-color: #f1f1f1; padding: 5px;"><code>datasets/test/aus_openface_new560.pkl</code></span>: dictionary containing the action units of each image.
 
 <span style="background-color: #f1f1f1; padding: 5px;"><code>datasets/test/train_ids.csv</code></span>: the file containing the names of the images to be used to train.
 
