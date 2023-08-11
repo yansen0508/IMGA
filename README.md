@@ -14,6 +14,7 @@ pip install -r requirements.txt
 ## Description
 The generator is based on [GANimation](https://github.com/albertpumarola/GANimation).
 The interface of the perceptual experiment is based on Psychopy.
+
 The input image and the output images are 148 * 148.
 
 <span style="background-color: #f1f1f1; padding: 5px;"><code>datasets/results/</code></span>:
