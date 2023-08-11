@@ -7,7 +7,7 @@ For more information, please refer to our project [IMGA](https://yansen0508.gith
 ![General pipeline](Figs/pipeline.png)
 
 ## Requirements
-Please install Pytorch, Torchvision, [psychopy](https://www.psychopy.org/), and dependencies.
+Please install Pytorch, Torchvision, [Psychopy](https://www.psychopy.org/), and dependencies.
 ```shell
 pip install -r requirements.txt
 ```
@@ -54,3 +54,5 @@ If you use this code or ideas from the paper for your research, please cite our 
 
 ## Acknowledgement
 This work is supported by Randstad and ANR REFLETS.
+![CentraleSupelec](Figs/logo1.png)
+![Randstad](Figs/logo2.png)
