@@ -4,6 +4,15 @@ This is the official implementation of [IMGA](https://yansen0508.github.io/Inter
 For more information please refer to our [paper](https://hal.science/hal-04050608/document).
 
 ## Requirements
+Please install pytorch, torchvision and psychopy.
+```shell
+pip install -r requirements.txt
+```
+
+## Code
+The generator is based on [GANimation](https://github.com/albertpumarola/GANimation).
+
+The code will be uploaded soon...
 
 ## Citation
 If you use this code or ideas from the paper for your research, please cite our paper:
