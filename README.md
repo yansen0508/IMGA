@@ -36,7 +36,7 @@ Example subject comes from [MMI datasets](https://mmifacedb.eu/).
 
 <span style="background-color: #f1f1f1; padding: 5px;"><code>*.txt</code></span>: texts displayed during the perceptual experiments.
 
-Please download the checkpoints from [here](https://drive.google.com/file/d/1geTeVf0v8was3GdBjLbeTnv_uLpbLPl6/view?usp=drive_link) and [here](https://drive.google.com/file/d/1f9moiWKiyPMJ9wtrihJY6yeAKVed9SXg/view?usp=drive_link). Then put them at <span style="background-color: #f1f1f1; padding: 5px;"><code>ckpts/190327_160828/</code></span>
+Please download the checkpoints from [here](https://drive.google.com/file/d/1f9moiWKiyPMJ9wtrihJY6yeAKVed9SXg/view?usp=sharing) and [here](https://drive.google.com/file/d/1geTeVf0v8was3GdBjLbeTnv_uLpbLPl6/view?usp=sharing). Then put them at <span style="background-color: #f1f1f1; padding: 5px;"><code>ckpts/190327_160828/</code></span>
 
 ### To run: 
 IMGA.py
