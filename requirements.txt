@@ -1,0 +1,8 @@
+pytorch
+torch
+torchvision
+numpy
+matplotlib
+tqdm
+dlib
+psychopy
