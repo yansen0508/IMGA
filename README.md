@@ -1,5 +1,5 @@
 # Exploring Mental Prototypes by an Efficient Interdisciplinary Approach: Interactive Microbial Genetic Algorithm (IMGA)
-This is the official implementation of [[Paper](https://hal.science/hal-04050608/document)] Exploring Mental Prototypes by an Efficient Interdisciplinary Approach: Interactive Microbial Genetic Algorithm (IMGA).
+This is the official implementation of our [[Paper](https://hal.science/hal-04050608/document)] Exploring Mental Prototypes by an Efficient Interdisciplinary Approach: Interactive Microbial Genetic Algorithm (IMGA).
 
 For more information, please refer to our project [IMGA](https://yansen0508.github.io/Interactive-Microbial-Genetic-Algorithm/).
 
