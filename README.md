@@ -41,6 +41,10 @@ Please download the pretrained model from [here](https://drive.google.com/file/d
 ### To run: 
 IMGA.py
 
+### If you want to use a specific photograph (e.g, you are the actor)
+Please replace "0.bmp" in <span style="background-color: #f1f1f1; padding: 5px;"><code>datasets/results/test/imgs</code></span> by your photo. Make sure that the size should be consistent. We suggest using a neutral face. If the face of your proposed photograph is not neutral, please follow the preprocessing instruction here.
+
+
 ## Citation
 If you use this code or ideas from the paper for your research, please cite our paper:
 ```BibTeX
